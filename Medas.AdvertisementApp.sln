@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medas.AdvertisementApp.Common", "Medas.AdvertisementApp.Common\Medas.AdvertisementApp.Common.csproj", "{D650EDF9-3444-4119-B700-688AB9BA2A5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medas.AdvirsementApp.Entities", "Medas.AdvirsementApp.Entities\Medas.AdvirsementApp.Entities.csproj", "{2499EC74-25CE-4BFC-A7DB-0B8F134AAA32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D650EDF9-3444-4119-B700-688AB9BA2A5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D650EDF9-3444-4119-B700-688AB9BA2A5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D650EDF9-3444-4119-B700-688AB9BA2A5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D650EDF9-3444-4119-B700-688AB9BA2A5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2499EC74-25CE-4BFC-A7DB-0B8F134AAA32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2499EC74-25CE-4BFC-A7DB-0B8F134AAA32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2499EC74-25CE-4BFC-A7DB-0B8F134AAA32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2499EC74-25CE-4BFC-A7DB-0B8F134AAA32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DB21C40-FF7C-4872-9E73-979B2E40083E}
+	EndGlobalSection
+EndGlobal
