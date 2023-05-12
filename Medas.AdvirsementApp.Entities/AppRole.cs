@@ -9,6 +9,6 @@ namespace Medas.AdvirsementApp.Entities
     public class AppRole:BaseEntity
     {
         public string? Definition { get; set; }
-        public List<AppUserRole>  UserRoles { get; set; }
+        public List<AppUserRole>  AppUserRoles { get; set; }
     }
 }

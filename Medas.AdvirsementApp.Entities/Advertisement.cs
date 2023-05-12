@@ -12,5 +12,6 @@ namespace Medas.AdvirsementApp.Entities
         public bool Status { get; set; }
         public string? Description { get; set; }
         public DateTime CreatedDate { get; set; }
+        public List<AdvertisementAppUser> AdvertisementAppUsers { get; set; }
     }
 }

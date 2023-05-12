@@ -1,0 +1,12 @@
+C:\Users\mdskln2660\source\repos\Medas.AdvertisementApp\Medas.AdvertisementApp.Common\bin\Debug\net6.0\Medas.AdvertisementApp.Common.deps.json
+C:\Users\mdskln2660\source\repos\Medas.AdvertisementApp\Medas.AdvertisementApp.Common\bin\Debug\net6.0\Medas.AdvertisementApp.Common.dll
+C:\Users\mdskln2660\source\repos\Medas.AdvertisementApp\Medas.AdvertisementApp.Common\bin\Debug\net6.0\Medas.AdvertisementApp.Common.pdb
+C:\Users\mdskln2660\source\repos\Medas.AdvertisementApp\Medas.AdvertisementApp.Common\obj\Debug\net6.0\Medas.AdvertisementApp.Common.csproj.AssemblyReference.cache
+C:\Users\mdskln2660\source\repos\Medas.AdvertisementApp\Medas.AdvertisementApp.Common\obj\Debug\net6.0\Medas.AdvertisementApp.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdskln2660\source\repos\Medas.AdvertisementApp\Medas.AdvertisementApp.Common\obj\Debug\net6.0\Medas.AdvertisementApp.Common.AssemblyInfoInputs.cache
+C:\Users\mdskln2660\source\repos\Medas.AdvertisementApp\Medas.AdvertisementApp.Common\obj\Debug\net6.0\Medas.AdvertisementApp.Common.AssemblyInfo.cs
+C:\Users\mdskln2660\source\repos\Medas.AdvertisementApp\Medas.AdvertisementApp.Common\obj\Debug\net6.0\Medas.AdvertisementApp.Common.csproj.CoreCompileInputs.cache
+C:\Users\mdskln2660\source\repos\Medas.AdvertisementApp\Medas.AdvertisementApp.Common\obj\Debug\net6.0\Medas.AdvertisementApp.Common.dll
+C:\Users\mdskln2660\source\repos\Medas.AdvertisementApp\Medas.AdvertisementApp.Common\obj\Debug\net6.0\refint\Medas.AdvertisementApp.Common.dll
+C:\Users\mdskln2660\source\repos\Medas.AdvertisementApp\Medas.AdvertisementApp.Common\obj\Debug\net6.0\Medas.AdvertisementApp.Common.pdb
+C:\Users\mdskln2660\source\repos\Medas.AdvertisementApp\Medas.AdvertisementApp.Common\obj\Debug\net6.0\ref\Medas.AdvertisementApp.Common.dll
