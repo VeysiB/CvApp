@@ -1,21 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mdskln2660\\source\\repos\\Medas.AdvertisementApp\\Medas.AdvertisementApp.Common\\Medas.AdvertisementApp.Common.csproj": {}
+    "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\CvApp\\Medas.AdvertisementApp.Common\\Medas.AdvertisementApp.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mdskln2660\\source\\repos\\Medas.AdvertisementApp\\Medas.AdvertisementApp.Common\\Medas.AdvertisementApp.Common.csproj": {
+    "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\CvApp\\Medas.AdvertisementApp.Common\\Medas.AdvertisementApp.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mdskln2660\\source\\repos\\Medas.AdvertisementApp\\Medas.AdvertisementApp.Common\\Medas.AdvertisementApp.Common.csproj",
+        "projectUniqueName": "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\CvApp\\Medas.AdvertisementApp.Common\\Medas.AdvertisementApp.Common.csproj",
         "projectName": "Medas.AdvertisementApp.Common",
-        "projectPath": "C:\\Users\\mdskln2660\\source\\repos\\Medas.AdvertisementApp\\Medas.AdvertisementApp.Common\\Medas.AdvertisementApp.Common.csproj",
-        "packagesPath": "C:\\Users\\mdskln2660\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mdskln2660\\source\\repos\\Medas.AdvertisementApp\\Medas.AdvertisementApp.Common\\obj\\",
+        "projectPath": "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\CvApp\\Medas.AdvertisementApp.Common\\Medas.AdvertisementApp.Common.csproj",
+        "packagesPath": "C:\\Users\\Veysi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\CvApp\\Medas.AdvertisementApp.Common\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\mdskln2660\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Veysi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -55,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

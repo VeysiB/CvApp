@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\Medas.AdversimentApp.UI.props" />
-</Project>

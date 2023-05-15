@@ -3,6 +3,7 @@
 
 
 
+using Medas.AdvertisementApp.Business.DependencyResolvers.Microsoft;
 using Medas.AdvirsementApp.DataAccess.Contexts;
 using Microsoft.EntityFrameworkCore;
 
@@ -16,6 +17,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDependencies(builder.Configuration);
 
 var app = builder.Build();
 

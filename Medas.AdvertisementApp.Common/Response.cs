@@ -22,7 +22,7 @@ namespace Medas.AdvertisementApp.Common
     }
     public enum ResponseType
     {
-        success,
+        Success,
         ValidationError,
         NotFound
     }

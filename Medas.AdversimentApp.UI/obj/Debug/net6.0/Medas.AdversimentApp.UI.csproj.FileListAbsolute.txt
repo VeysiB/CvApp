@@ -75,3 +75,11 @@ C:\Users\mdskln2660\source\repos\Medas.AdvertisementApp\Medas.AdversimentApp.UI\
 C:\Users\mdskln2660\source\repos\Medas.AdvertisementApp\Medas.AdversimentApp.UI\obj\Debug\net6.0\Medas.AdversimentApp.UI.pdb
 C:\Users\mdskln2660\source\repos\Medas.AdvertisementApp\Medas.AdversimentApp.UI\obj\Debug\net6.0\Medas.AdversimentApp.UI.genruntimeconfig.cache
 C:\Users\mdskln2660\source\repos\Medas.AdvertisementApp\Medas.AdversimentApp.UI\obj\Debug\net6.0\ref\Medas.AdversimentApp.UI.dll
+C:\Users\Veysi\OneDrive\Masaüstü\CvApp\Medas.AdversimentApp.UI\obj\Debug\net6.0\Medas.AdversimentApp.UI.csproj.AssemblyReference.cache
+C:\Users\Veysi\OneDrive\Masaüstü\CvApp\Medas.AdversimentApp.UI\obj\Debug\net6.0\Medas.AdversimentApp.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Veysi\OneDrive\Masaüstü\CvApp\Medas.AdversimentApp.UI\obj\Debug\net6.0\Medas.AdversimentApp.UI.AssemblyInfoInputs.cache
+C:\Users\Veysi\OneDrive\Masaüstü\CvApp\Medas.AdversimentApp.UI\obj\Debug\net6.0\Medas.AdversimentApp.UI.AssemblyInfo.cs
+C:\Users\Veysi\OneDrive\Masaüstü\CvApp\Medas.AdversimentApp.UI\obj\Debug\net6.0\Medas.AdversimentApp.UI.csproj.CoreCompileInputs.cache
+C:\Users\Veysi\OneDrive\Masaüstü\CvApp\Medas.AdversimentApp.UI\obj\Debug\net6.0\Medas.AdversimentApp.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Veysi\OneDrive\Masaüstü\CvApp\Medas.AdversimentApp.UI\obj\Debug\net6.0\Medas.AdversimentApp.UI.RazorAssemblyInfo.cache
+C:\Users\Veysi\OneDrive\Masaüstü\CvApp\Medas.AdversimentApp.UI\obj\Debug\net6.0\Medas.AdversimentApp.UI.RazorAssemblyInfo.cs

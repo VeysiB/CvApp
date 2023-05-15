@@ -7,11 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Medas.AdvertisementApp.Comm
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Medas.AdvirsementApp.Entities", "Medas.AdvirsementApp.Entities\Medas.AdvirsementApp.Entities.csproj", "{2499EC74-25CE-4BFC-A7DB-0B8F134AAA32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medas.AdvirsementApp.DataAccess", "Medas.AdvirsementApp.DataAccess\Medas.AdvirsementApp.DataAccess.csproj", "{18A93228-05A9-42C1-A602-EABE72A03389}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Medas.AdvirsementApp.DataAccess", "Medas.AdvirsementApp.DataAccess\Medas.AdvirsementApp.DataAccess.csproj", "{18A93228-05A9-42C1-A602-EABE72A03389}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medas.AdvertisementApp.Business", "Medas.AdvertisementApp.Business\Medas.AdvertisementApp.Business.csproj", "{DCE8E467-ECC8-4576-A18C-E93EF035B0E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Medas.AdvertisementApp.Business", "Medas.AdvertisementApp.Business\Medas.AdvertisementApp.Business.csproj", "{DCE8E467-ECC8-4576-A18C-E93EF035B0E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medas.AdversimentApp.UI", "Medas.AdversimentApp.UI\Medas.AdversimentApp.UI.csproj", "{55A1BF8D-53E0-4B8E-9311-E9399AE4E23A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Medas.AdversimentApp.UI", "Medas.AdversimentApp.UI\Medas.AdversimentApp.UI.csproj", "{55A1BF8D-53E0-4B8E-9311-E9399AE4E23A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medas.AdvertisementApp.Dtos", "Medas.AdvertisementApp.Dtos\Medas.AdvertisementApp.Dtos.csproj", "{4D3CF98A-E420-4E83-B168-503D0399513E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{55A1BF8D-53E0-4B8E-9311-E9399AE4E23A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55A1BF8D-53E0-4B8E-9311-E9399AE4E23A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55A1BF8D-53E0-4B8E-9311-E9399AE4E23A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D3CF98A-E420-4E83-B168-503D0399513E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D3CF98A-E420-4E83-B168-503D0399513E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D3CF98A-E420-4E83-B168-503D0399513E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D3CF98A-E420-4E83-B168-503D0399513E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

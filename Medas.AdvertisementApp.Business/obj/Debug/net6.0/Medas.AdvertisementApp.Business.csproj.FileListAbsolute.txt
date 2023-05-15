@@ -17,3 +17,8 @@ C:\Users\mdskln2660\source\repos\Medas.AdvertisementApp\Medas.AdvertisementApp.B
 C:\Users\mdskln2660\source\repos\Medas.AdvertisementApp\Medas.AdvertisementApp.Business\obj\Debug\net6.0\refint\Medas.AdvertisementApp.Business.dll
 C:\Users\mdskln2660\source\repos\Medas.AdvertisementApp\Medas.AdvertisementApp.Business\obj\Debug\net6.0\Medas.AdvertisementApp.Business.pdb
 C:\Users\mdskln2660\source\repos\Medas.AdvertisementApp\Medas.AdvertisementApp.Business\obj\Debug\net6.0\ref\Medas.AdvertisementApp.Business.dll
+C:\Users\Veysi\OneDrive\Masaüstü\CvApp\Medas.AdvertisementApp.Business\obj\Debug\net6.0\Medas.AdvertisementApp.Business.csproj.AssemblyReference.cache
+C:\Users\Veysi\OneDrive\Masaüstü\CvApp\Medas.AdvertisementApp.Business\obj\Debug\net6.0\Medas.AdvertisementApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Veysi\OneDrive\Masaüstü\CvApp\Medas.AdvertisementApp.Business\obj\Debug\net6.0\Medas.AdvertisementApp.Business.AssemblyInfoInputs.cache
+C:\Users\Veysi\OneDrive\Masaüstü\CvApp\Medas.AdvertisementApp.Business\obj\Debug\net6.0\Medas.AdvertisementApp.Business.AssemblyInfo.cs
+C:\Users\Veysi\OneDrive\Masaüstü\CvApp\Medas.AdvertisementApp.Business\obj\Debug\net6.0\Medas.AdvertisementApp.Business.csproj.CoreCompileInputs.cache

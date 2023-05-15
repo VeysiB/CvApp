@@ -1,4 +1,10 @@
-﻿using Medas.AdvirsementApp.DataAccess.Contexts;
+﻿using AutoMapper;
+using FluentValidation;
+using Medas.AdvertisementApp.Business.Mappings;
+using Medas.AdvertisementApp.Business.ValidationRules;
+using Medas.AdvertisementApp.Dtos.ProvidedServiceDtos;
+using Medas.AdvirsementApp.DataAccess.Contexts;
+using Medas.AdvirsementApp.DataAccess.UnitOfWork;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -18,6 +24,16 @@ namespace Medas.AdvertisementApp.Business.DependencyResolvers.Microsoft
             {
                 opt.UseSqlServer(configuration.GetConnectionString("Local"));
             });
+            var mapperConfiguration = new MapperConfiguration(opt =>
+            {
+              opt.AddProfile(new ProvidedServiceProfile());
+            });
+            var mapper=mapperConfiguration.CreateMapper();
+            services.AddSingleton(mapper);
+
+            services.AddScoped<IUow, Uow>();
+            services.AddTransient<IValidator<ProvidedServiceCreateDto>,ProvidedServiceCreateDtoValidator>();
+            services.AddTransient<IValidator<ProvidedServiceUpdateDto>,ProvidedServiceUpdateDtoValidator>();
         }
     }
 }
