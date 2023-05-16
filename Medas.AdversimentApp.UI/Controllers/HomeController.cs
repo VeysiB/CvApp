@@ -1,4 +1,6 @@
-﻿using Medas.AdversimentApp.UI.Models;
+﻿using Medas.AdversimentApp.UI.Extensions;
+using Medas.AdversimentApp.UI.Models;
+using Medas.AdvertisementApp.Business.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
@@ -6,27 +8,21 @@ namespace Medas.AdversimentApp.UI.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly IProvidedServiceService _providedServiceService;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(IProvidedServiceService providedServiceService)
         {
-            _logger = logger;
+            _providedServiceService = providedServiceService;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
+        {
+            var response=await _providedServiceService.GetAllAsync();
+            return this.ResponseView(response);
+        }
+        public async Task<IActionResult> HumanResource()
         {
             return View();
-        }
-
-        public IActionResult Privacy()
-        {
-            return View();
-        }
-
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
     }
 }

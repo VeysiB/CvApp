@@ -22,3 +22,15 @@ C:\Users\Veysi\OneDrive\Masaüstü\CvApp\Medas.AdvirsementApp.Entities\obj\Debug
 C:\Users\Veysi\OneDrive\Masaüstü\CvApp\Medas.AdvirsementApp.Entities\obj\Debug\net6.0\refint\Medas.AdvirsementApp.Entities.dll
 C:\Users\Veysi\OneDrive\Masaüstü\CvApp\Medas.AdvirsementApp.Entities\obj\Debug\net6.0\Medas.AdvirsementApp.Entities.pdb
 C:\Users\Veysi\OneDrive\Masaüstü\CvApp\Medas.AdvirsementApp.Entities\obj\Debug\net6.0\ref\Medas.AdvirsementApp.Entities.dll
+C:\Users\mdskln2660\source\repos\Medas.AdvertisementApp\CvApp\Medas.AdvirsementApp.Entities\bin\Debug\net6.0\Medas.AdvirsementApp.Entities.deps.json
+C:\Users\mdskln2660\source\repos\Medas.AdvertisementApp\CvApp\Medas.AdvirsementApp.Entities\bin\Debug\net6.0\Medas.AdvirsementApp.Entities.dll
+C:\Users\mdskln2660\source\repos\Medas.AdvertisementApp\CvApp\Medas.AdvirsementApp.Entities\bin\Debug\net6.0\Medas.AdvirsementApp.Entities.pdb
+C:\Users\mdskln2660\source\repos\Medas.AdvertisementApp\CvApp\Medas.AdvirsementApp.Entities\obj\Debug\net6.0\Medas.AdvirsementApp.Entities.csproj.AssemblyReference.cache
+C:\Users\mdskln2660\source\repos\Medas.AdvertisementApp\CvApp\Medas.AdvirsementApp.Entities\obj\Debug\net6.0\Medas.AdvirsementApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdskln2660\source\repos\Medas.AdvertisementApp\CvApp\Medas.AdvirsementApp.Entities\obj\Debug\net6.0\Medas.AdvirsementApp.Entities.AssemblyInfoInputs.cache
+C:\Users\mdskln2660\source\repos\Medas.AdvertisementApp\CvApp\Medas.AdvirsementApp.Entities\obj\Debug\net6.0\Medas.AdvirsementApp.Entities.AssemblyInfo.cs
+C:\Users\mdskln2660\source\repos\Medas.AdvertisementApp\CvApp\Medas.AdvirsementApp.Entities\obj\Debug\net6.0\Medas.AdvirsementApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\mdskln2660\source\repos\Medas.AdvertisementApp\CvApp\Medas.AdvirsementApp.Entities\obj\Debug\net6.0\Medas.AdvirsementApp.Entities.dll
+C:\Users\mdskln2660\source\repos\Medas.AdvertisementApp\CvApp\Medas.AdvirsementApp.Entities\obj\Debug\net6.0\refint\Medas.AdvirsementApp.Entities.dll
+C:\Users\mdskln2660\source\repos\Medas.AdvertisementApp\CvApp\Medas.AdvirsementApp.Entities\obj\Debug\net6.0\Medas.AdvirsementApp.Entities.pdb
+C:\Users\mdskln2660\source\repos\Medas.AdvertisementApp\CvApp\Medas.AdvirsementApp.Entities\obj\Debug\net6.0\ref\Medas.AdvirsementApp.Entities.dll

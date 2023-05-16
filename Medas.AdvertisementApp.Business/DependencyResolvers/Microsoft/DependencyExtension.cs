@@ -1,6 +1,8 @@
 ﻿using AutoMapper;
 using FluentValidation;
+using Medas.AdvertisementApp.Business.Interfaces;
 using Medas.AdvertisementApp.Business.Mappings;
+using Medas.AdvertisementApp.Business.Services;
 using Medas.AdvertisementApp.Business.ValidationRules;
 using Medas.AdvertisementApp.Dtos.ProvidedServiceDtos;
 using Medas.AdvirsementApp.DataAccess.Contexts;
@@ -34,6 +36,8 @@ namespace Medas.AdvertisementApp.Business.DependencyResolvers.Microsoft
             services.AddScoped<IUow, Uow>();
             services.AddTransient<IValidator<ProvidedServiceCreateDto>,ProvidedServiceCreateDtoValidator>();
             services.AddTransient<IValidator<ProvidedServiceUpdateDto>,ProvidedServiceUpdateDtoValidator>();
+
+            services.AddScoped<IProvidedServiceService, ProvidedServiceService>();
         }
     }
 }

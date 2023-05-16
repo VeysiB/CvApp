@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Medas.AdvirsementApp.DataAccess.Migrations
 {
     [DbContext(typeof(AdvertisementContext))]
-    [Migration("20230512191940_InitialCreate")]
+    [Migration("20230516063432_InitialCreate")]
     partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
