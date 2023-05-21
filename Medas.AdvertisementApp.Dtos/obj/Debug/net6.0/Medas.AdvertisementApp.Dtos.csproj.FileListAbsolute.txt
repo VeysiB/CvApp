@@ -22,3 +22,15 @@ C:\Users\mdskln2660\source\repos\Medas.AdvertisementApp\CvApp\Medas.Advertisemen
 C:\Users\mdskln2660\source\repos\Medas.AdvertisementApp\CvApp\Medas.AdvertisementApp.Dtos\obj\Debug\net6.0\refint\Medas.AdvertisementApp.Dtos.dll
 C:\Users\mdskln2660\source\repos\Medas.AdvertisementApp\CvApp\Medas.AdvertisementApp.Dtos\obj\Debug\net6.0\Medas.AdvertisementApp.Dtos.pdb
 C:\Users\mdskln2660\source\repos\Medas.AdvertisementApp\CvApp\Medas.AdvertisementApp.Dtos\obj\Debug\net6.0\ref\Medas.AdvertisementApp.Dtos.dll
+C:\Users\Veysi\OneDrive\Masaüstü\CvApp\CvApp\Medas.AdvertisementApp.Dtos\bin\Debug\net6.0\Medas.AdvertisementApp.Dtos.deps.json
+C:\Users\Veysi\OneDrive\Masaüstü\CvApp\CvApp\Medas.AdvertisementApp.Dtos\bin\Debug\net6.0\Medas.AdvertisementApp.Dtos.dll
+C:\Users\Veysi\OneDrive\Masaüstü\CvApp\CvApp\Medas.AdvertisementApp.Dtos\bin\Debug\net6.0\Medas.AdvertisementApp.Dtos.pdb
+C:\Users\Veysi\OneDrive\Masaüstü\CvApp\CvApp\Medas.AdvertisementApp.Dtos\obj\Debug\net6.0\Medas.AdvertisementApp.Dtos.csproj.AssemblyReference.cache
+C:\Users\Veysi\OneDrive\Masaüstü\CvApp\CvApp\Medas.AdvertisementApp.Dtos\obj\Debug\net6.0\Medas.AdvertisementApp.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Veysi\OneDrive\Masaüstü\CvApp\CvApp\Medas.AdvertisementApp.Dtos\obj\Debug\net6.0\Medas.AdvertisementApp.Dtos.AssemblyInfoInputs.cache
+C:\Users\Veysi\OneDrive\Masaüstü\CvApp\CvApp\Medas.AdvertisementApp.Dtos\obj\Debug\net6.0\Medas.AdvertisementApp.Dtos.AssemblyInfo.cs
+C:\Users\Veysi\OneDrive\Masaüstü\CvApp\CvApp\Medas.AdvertisementApp.Dtos\obj\Debug\net6.0\Medas.AdvertisementApp.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\Veysi\OneDrive\Masaüstü\CvApp\CvApp\Medas.AdvertisementApp.Dtos\obj\Debug\net6.0\Medas.AdvertisementApp.Dtos.dll
+C:\Users\Veysi\OneDrive\Masaüstü\CvApp\CvApp\Medas.AdvertisementApp.Dtos\obj\Debug\net6.0\refint\Medas.AdvertisementApp.Dtos.dll
+C:\Users\Veysi\OneDrive\Masaüstü\CvApp\CvApp\Medas.AdvertisementApp.Dtos\obj\Debug\net6.0\Medas.AdvertisementApp.Dtos.pdb
+C:\Users\Veysi\OneDrive\Masaüstü\CvApp\CvApp\Medas.AdvertisementApp.Dtos\obj\Debug\net6.0\ref\Medas.AdvertisementApp.Dtos.dll

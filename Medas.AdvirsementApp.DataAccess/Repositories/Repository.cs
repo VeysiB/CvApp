@@ -33,13 +33,13 @@ namespace Medas.AdvirsementApp.DataAccess.Repositories
         {
             return await _context.Set<T>().Where(filter).AsNoTracking().ToListAsync();
         }
-        public async Task<List<T>> GetAllAsync<TKey>(Expression<Func<T,bool>> selector,OrderByType orderByType=OrderByType.DESC)
+        public async Task<List<T>> GetAllAsync<TKey>(Expression<Func<T,TKey>> selector,OrderByType orderByType=OrderByType.DESC)
         {
             return orderByType==OrderByType.ASC? 
                  await _context.Set<T>().AsNoTracking().OrderBy(selector).ToListAsync()
                 :await _context.Set<T>().AsNoTracking().OrderByDescending(selector).ToListAsync();  
         }
-        public async Task<List<T>> GetAllAsync<TKey>(Expression<Func<T,bool>> filter,Expression<Func<T,bool>> selector,OrderByType orderByType = OrderByType.DESC)
+        public async Task<List<T>> GetAllAsync<TKey>(Expression<Func<T,bool>> filter,Expression<Func<T,TKey>> selector,OrderByType orderByType = OrderByType.DESC)
         {
             return orderByType==OrderByType.ASC?
                 await _context.Set<T>().Where(filter).AsNoTracking().OrderBy(selector).ToListAsync()
@@ -70,5 +70,7 @@ namespace Medas.AdvirsementApp.DataAccess.Repositories
         {
             _context.Entry(unchanged).CurrentValues.SetValues(entity);
         }
+
+       
     }
 }

@@ -1,21 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mdskln2660\\source\\repos\\Medas.AdvertisementApp\\CvApp\\Medas.AdversimentApp.UI\\Medas.AdversimentApp.UI.csproj": {}
+    "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\CvApp\\CvApp\\Medas.AdversimentApp.UI\\Medas.AdversimentApp.UI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mdskln2660\\source\\repos\\Medas.AdvertisementApp\\CvApp\\Medas.AdversimentApp.UI\\Medas.AdversimentApp.UI.csproj": {
+    "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\CvApp\\CvApp\\Medas.AdversimentApp.UI\\Medas.AdversimentApp.UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mdskln2660\\source\\repos\\Medas.AdvertisementApp\\CvApp\\Medas.AdversimentApp.UI\\Medas.AdversimentApp.UI.csproj",
+        "projectUniqueName": "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\CvApp\\CvApp\\Medas.AdversimentApp.UI\\Medas.AdversimentApp.UI.csproj",
         "projectName": "Medas.AdversimentApp.UI",
-        "projectPath": "C:\\Users\\mdskln2660\\source\\repos\\Medas.AdvertisementApp\\CvApp\\Medas.AdversimentApp.UI\\Medas.AdversimentApp.UI.csproj",
-        "packagesPath": "C:\\Users\\mdskln2660\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mdskln2660\\source\\repos\\Medas.AdvertisementApp\\CvApp\\Medas.AdversimentApp.UI\\obj\\",
+        "projectPath": "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\CvApp\\CvApp\\Medas.AdversimentApp.UI\\Medas.AdversimentApp.UI.csproj",
+        "packagesPath": "C:\\Users\\Veysi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\CvApp\\CvApp\\Medas.AdversimentApp.UI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\mdskln2660\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Veysi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -28,8 +35,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\mdskln2660\\source\\repos\\Medas.AdvertisementApp\\CvApp\\Medas.AdvertisementApp.Business\\Medas.AdvertisementApp.Business.csproj": {
-                "projectPath": "C:\\Users\\mdskln2660\\source\\repos\\Medas.AdvertisementApp\\CvApp\\Medas.AdvertisementApp.Business\\Medas.AdvertisementApp.Business.csproj"
+              "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\CvApp\\CvApp\\Medas.AdvertisementApp.Business\\Medas.AdvertisementApp.Business.csproj": {
+                "projectPath": "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\CvApp\\CvApp\\Medas.AdvertisementApp.Business\\Medas.AdvertisementApp.Business.csproj"
               }
             }
           }
@@ -70,22 +77,29 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\mdskln2660\\source\\repos\\Medas.AdvertisementApp\\CvApp\\Medas.AdvertisementApp.Business\\Medas.AdvertisementApp.Business.csproj": {
+    "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\CvApp\\CvApp\\Medas.AdvertisementApp.Business\\Medas.AdvertisementApp.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mdskln2660\\source\\repos\\Medas.AdvertisementApp\\CvApp\\Medas.AdvertisementApp.Business\\Medas.AdvertisementApp.Business.csproj",
+        "projectUniqueName": "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\CvApp\\CvApp\\Medas.AdvertisementApp.Business\\Medas.AdvertisementApp.Business.csproj",
         "projectName": "Medas.AdvertisementApp.Business",
-        "projectPath": "C:\\Users\\mdskln2660\\source\\repos\\Medas.AdvertisementApp\\CvApp\\Medas.AdvertisementApp.Business\\Medas.AdvertisementApp.Business.csproj",
-        "packagesPath": "C:\\Users\\mdskln2660\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mdskln2660\\source\\repos\\Medas.AdvertisementApp\\CvApp\\Medas.AdvertisementApp.Business\\obj\\",
+        "projectPath": "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\CvApp\\CvApp\\Medas.AdvertisementApp.Business\\Medas.AdvertisementApp.Business.csproj",
+        "packagesPath": "C:\\Users\\Veysi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\CvApp\\CvApp\\Medas.AdvertisementApp.Business\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\mdskln2660\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Veysi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -98,11 +112,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\mdskln2660\\source\\repos\\Medas.AdvertisementApp\\CvApp\\Medas.AdvertisementApp.Dtos\\Medas.AdvertisementApp.Dtos.csproj": {
-                "projectPath": "C:\\Users\\mdskln2660\\source\\repos\\Medas.AdvertisementApp\\CvApp\\Medas.AdvertisementApp.Dtos\\Medas.AdvertisementApp.Dtos.csproj"
+              "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\CvApp\\CvApp\\Medas.AdvertisementApp.Dtos\\Medas.AdvertisementApp.Dtos.csproj": {
+                "projectPath": "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\CvApp\\CvApp\\Medas.AdvertisementApp.Dtos\\Medas.AdvertisementApp.Dtos.csproj"
               },
-              "C:\\Users\\mdskln2660\\source\\repos\\Medas.AdvertisementApp\\CvApp\\Medas.AdvirsementApp.DataAccess\\Medas.AdvirsementApp.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\mdskln2660\\source\\repos\\Medas.AdvertisementApp\\CvApp\\Medas.AdvirsementApp.DataAccess\\Medas.AdvirsementApp.DataAccess.csproj"
+              "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\CvApp\\CvApp\\Medas.AdvirsementApp.DataAccess\\Medas.AdvirsementApp.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\CvApp\\CvApp\\Medas.AdvirsementApp.DataAccess\\Medas.AdvirsementApp.DataAccess.csproj"
               }
             }
           }
@@ -150,22 +164,29 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\mdskln2660\\source\\repos\\Medas.AdvertisementApp\\CvApp\\Medas.AdvertisementApp.Common\\Medas.AdvertisementApp.Common.csproj": {
+    "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\CvApp\\CvApp\\Medas.AdvertisementApp.Common\\Medas.AdvertisementApp.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mdskln2660\\source\\repos\\Medas.AdvertisementApp\\CvApp\\Medas.AdvertisementApp.Common\\Medas.AdvertisementApp.Common.csproj",
+        "projectUniqueName": "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\CvApp\\CvApp\\Medas.AdvertisementApp.Common\\Medas.AdvertisementApp.Common.csproj",
         "projectName": "Medas.AdvertisementApp.Common",
-        "projectPath": "C:\\Users\\mdskln2660\\source\\repos\\Medas.AdvertisementApp\\CvApp\\Medas.AdvertisementApp.Common\\Medas.AdvertisementApp.Common.csproj",
-        "packagesPath": "C:\\Users\\mdskln2660\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mdskln2660\\source\\repos\\Medas.AdvertisementApp\\CvApp\\Medas.AdvertisementApp.Common\\obj\\",
+        "projectPath": "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\CvApp\\CvApp\\Medas.AdvertisementApp.Common\\Medas.AdvertisementApp.Common.csproj",
+        "packagesPath": "C:\\Users\\Veysi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\CvApp\\CvApp\\Medas.AdvertisementApp.Common\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\mdskln2660\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Veysi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -205,22 +226,29 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\mdskln2660\\source\\repos\\Medas.AdvertisementApp\\CvApp\\Medas.AdvertisementApp.Dtos\\Medas.AdvertisementApp.Dtos.csproj": {
+    "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\CvApp\\CvApp\\Medas.AdvertisementApp.Dtos\\Medas.AdvertisementApp.Dtos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mdskln2660\\source\\repos\\Medas.AdvertisementApp\\CvApp\\Medas.AdvertisementApp.Dtos\\Medas.AdvertisementApp.Dtos.csproj",
+        "projectUniqueName": "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\CvApp\\CvApp\\Medas.AdvertisementApp.Dtos\\Medas.AdvertisementApp.Dtos.csproj",
         "projectName": "Medas.AdvertisementApp.Dtos",
-        "projectPath": "C:\\Users\\mdskln2660\\source\\repos\\Medas.AdvertisementApp\\CvApp\\Medas.AdvertisementApp.Dtos\\Medas.AdvertisementApp.Dtos.csproj",
-        "packagesPath": "C:\\Users\\mdskln2660\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mdskln2660\\source\\repos\\Medas.AdvertisementApp\\CvApp\\Medas.AdvertisementApp.Dtos\\obj\\",
+        "projectPath": "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\CvApp\\CvApp\\Medas.AdvertisementApp.Dtos\\Medas.AdvertisementApp.Dtos.csproj",
+        "packagesPath": "C:\\Users\\Veysi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\CvApp\\CvApp\\Medas.AdvertisementApp.Dtos\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\mdskln2660\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Veysi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -260,22 +288,29 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\mdskln2660\\source\\repos\\Medas.AdvertisementApp\\CvApp\\Medas.AdvirsementApp.DataAccess\\Medas.AdvirsementApp.DataAccess.csproj": {
+    "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\CvApp\\CvApp\\Medas.AdvirsementApp.DataAccess\\Medas.AdvirsementApp.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mdskln2660\\source\\repos\\Medas.AdvertisementApp\\CvApp\\Medas.AdvirsementApp.DataAccess\\Medas.AdvirsementApp.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\CvApp\\CvApp\\Medas.AdvirsementApp.DataAccess\\Medas.AdvirsementApp.DataAccess.csproj",
         "projectName": "Medas.AdvirsementApp.DataAccess",
-        "projectPath": "C:\\Users\\mdskln2660\\source\\repos\\Medas.AdvertisementApp\\CvApp\\Medas.AdvirsementApp.DataAccess\\Medas.AdvirsementApp.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\mdskln2660\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mdskln2660\\source\\repos\\Medas.AdvertisementApp\\CvApp\\Medas.AdvirsementApp.DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\CvApp\\CvApp\\Medas.AdvirsementApp.DataAccess\\Medas.AdvirsementApp.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Veysi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\CvApp\\CvApp\\Medas.AdvirsementApp.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\mdskln2660\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Veysi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -288,11 +323,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\mdskln2660\\source\\repos\\Medas.AdvertisementApp\\CvApp\\Medas.AdvertisementApp.Common\\Medas.AdvertisementApp.Common.csproj": {
-                "projectPath": "C:\\Users\\mdskln2660\\source\\repos\\Medas.AdvertisementApp\\CvApp\\Medas.AdvertisementApp.Common\\Medas.AdvertisementApp.Common.csproj"
+              "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\CvApp\\CvApp\\Medas.AdvertisementApp.Common\\Medas.AdvertisementApp.Common.csproj": {
+                "projectPath": "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\CvApp\\CvApp\\Medas.AdvertisementApp.Common\\Medas.AdvertisementApp.Common.csproj"
               },
-              "C:\\Users\\mdskln2660\\source\\repos\\Medas.AdvertisementApp\\CvApp\\Medas.AdvirsementApp.Entities\\Medas.AdvirsementApp.Entities.csproj": {
-                "projectPath": "C:\\Users\\mdskln2660\\source\\repos\\Medas.AdvertisementApp\\CvApp\\Medas.AdvirsementApp.Entities\\Medas.AdvirsementApp.Entities.csproj"
+              "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\CvApp\\CvApp\\Medas.AdvirsementApp.Entities\\Medas.AdvirsementApp.Entities.csproj": {
+                "projectPath": "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\CvApp\\CvApp\\Medas.AdvirsementApp.Entities\\Medas.AdvirsementApp.Entities.csproj"
               }
             }
           }
@@ -338,22 +373,29 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\mdskln2660\\source\\repos\\Medas.AdvertisementApp\\CvApp\\Medas.AdvirsementApp.Entities\\Medas.AdvirsementApp.Entities.csproj": {
+    "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\CvApp\\CvApp\\Medas.AdvirsementApp.Entities\\Medas.AdvirsementApp.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mdskln2660\\source\\repos\\Medas.AdvertisementApp\\CvApp\\Medas.AdvirsementApp.Entities\\Medas.AdvirsementApp.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\CvApp\\CvApp\\Medas.AdvirsementApp.Entities\\Medas.AdvirsementApp.Entities.csproj",
         "projectName": "Medas.AdvirsementApp.Entities",
-        "projectPath": "C:\\Users\\mdskln2660\\source\\repos\\Medas.AdvertisementApp\\CvApp\\Medas.AdvirsementApp.Entities\\Medas.AdvirsementApp.Entities.csproj",
-        "packagesPath": "C:\\Users\\mdskln2660\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mdskln2660\\source\\repos\\Medas.AdvertisementApp\\CvApp\\Medas.AdvirsementApp.Entities\\obj\\",
+        "projectPath": "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\CvApp\\CvApp\\Medas.AdvirsementApp.Entities\\Medas.AdvirsementApp.Entities.csproj",
+        "packagesPath": "C:\\Users\\Veysi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\CvApp\\CvApp\\Medas.AdvirsementApp.Entities\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\mdskln2660\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Veysi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -393,7 +435,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
