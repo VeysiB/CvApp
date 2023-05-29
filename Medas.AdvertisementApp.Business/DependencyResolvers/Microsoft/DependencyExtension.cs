@@ -29,15 +29,7 @@ namespace Medas.AdvertisementApp.Business.DependencyResolvers.Microsoft
             {
                 opt.UseSqlServer(configuration.GetConnectionString("Local"));
             });
-            var mapperConfiguration = new MapperConfiguration(opt =>
-            {
-                opt.AddProfile(new ProvidedServiceProfile());
-                opt.AddProfile(new AdvertisementProfile());
-                opt.AddProfile(new AppUserProfile());
-                opt.AddProfile(new GenderProfile());
-            });
-            var mapper=mapperConfiguration.CreateMapper();
-            services.AddSingleton(mapper);
+           
 
            
             services.AddTransient<IValidator<ProvidedServiceCreateDto>,ProvidedServiceCreateDtoValidator>();
@@ -57,5 +49,6 @@ namespace Medas.AdvertisementApp.Business.DependencyResolvers.Microsoft
             services.AddScoped<IAppUserService,AppUserService>();
             services.AddScoped<IGenderService, GenderService>();
         }
+       
     }
 }

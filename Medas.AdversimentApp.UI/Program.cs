@@ -3,7 +3,13 @@
 
 
 
+using AutoMapper;
+using FluentValidation;
+using Medas.AdversimentApp.UI.Mapping;
+using Medas.AdversimentApp.UI.Models;
+using Medas.AdversimentApp.UI.ValidationRules;
 using Medas.AdvertisementApp.Business.DependencyResolvers.Microsoft;
+using Medas.AdvertisementApp.Business.Helpers;
 using Medas.AdvirsementApp.DataAccess.Contexts;
 using Microsoft.EntityFrameworkCore;
 
@@ -19,6 +25,17 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddDependencies(builder.Configuration);
+builder.Services.AddTransient<IValidator<UserCreateModel>,UserCreateModelValidator>();
+var profiles=ProfileHelper.GetProfiles();
+profiles.Add(new UserCreateModelProfile());
+
+var configuration = new MapperConfiguration(opt =>
+{
+    opt.AddProfiles(profiles);
+});
+var mapper=configuration.CreateMapper();
+builder.Services.AddSingleton(mapper);
+
 
 var app = builder.Build();
 
